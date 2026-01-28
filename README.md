@@ -25,11 +25,11 @@ Homyz is a modern real estate web application built with the MERN (MongoDB, Expr
 
 - *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
 
-- ![image](https://full-stack-real-estate-youtube-sooty.vercel.app/)
+- ![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/a49e7fd3-68cf-4e35-ab2a-d88d279fb5a1)
 
-![image](https://full-stack-real-estate-youtube-sooty.vercel.app/)
+![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/a4f9bd34-9c94-40ea-ad42-8b2d66723028)
 
-![image](https://full-stack-real-estate-youtube-sooty.vercel.app/)
+![image](https://github.com/Ananya01Agrawal/Real-estate-Booking-Website/assets/99130567/43de1959-9201-4f0e-99e5-47faac7eb177)
 
 
 
